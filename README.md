@@ -3,7 +3,7 @@
 **🔴 TONTON LANGSUNG:** [**KLIK DI SINI**](https://bit.ly/3SNzNFz)  
 **📲 DOWNLOAD APK:** [**LINK DOWNLOAD**](https://bit.ly/3SNzNFz)  
 
-| ![Logo RBTV77](https://raw.githubusercontent.com/rbtv77-live-streaming/.github/refs/heads/main/profile/rbtv77.png) | [![NONTON-SEKARANG](https://raw.githubusercontent.com/rbtv77-live-streaming/.github/refs/heads/main/profile/livestreaming.png)](https://bit.ly/3SNzNFz) |
+| ![Logo RBTV77](https://raw.githubusercontent.com/rbtv77-live-streaming/rbtv77-live-streaming/refs/heads/main/rbtv77.png) | [![NONTON-SEKARANG](https://raw.githubusercontent.com/rbtv77-live-streaming/rbtv77-live-streaming/refs/heads/main/livestreaming.png)](https://bit.ly/3SNzNFz) |
 |:-------------------------------------------------:|-----------------------|
 | **Versi Aplikasi:** 2.5.1 (Android)               | **Ukuran:** 15 MB     |
 | **Kualitas Stream:** HD 1080p                     | ⭐️⭐️⭐️⭐️⭐️ (5/5)    |
